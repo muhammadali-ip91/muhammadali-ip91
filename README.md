@@ -9,7 +9,7 @@
 <br/>
 
 <!-- Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=muhammad-ali&color=00FFF0&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=muhammadali-ip91&color=00FFF0&style=for-the-badge&label=PROFILE+VIEWS)
 ![Status](https://img.shields.io/badge/STATUS-OPEN%20FOR%20INTERNSHIP-00FF00?style=for-the-badge&labelColor=0D1117)
 ![Specialization](https://img.shields.io/badge/SPECIALIZATION-PYTHON%20%26%20CYBERSECURITY-FF00FF?style=for-the-badge&labelColor=0D1117)
 ![Student](https://img.shields.io/badge/DEGREE-BS%20SOFTWARE%20ENGINEERING-00FFF0?style=for-the-badge&labelColor=0D1117)
@@ -272,20 +272,20 @@ A desktop mapping application combining Python Tkinter UI with Chromium Embedded
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=muhammad-ali&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFF0&icon_color=00FFF0&text_color=FFFFFF&border_radius=10" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-ali&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFF0&ring=00FFF0&fire=FF6D00&currStreakLabel=00FFF0&border_radius=10" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=muhammadali-ip91&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFF0&icon_color=00FFF0&text_color=FFFFFF&border_radius=10" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadali-ip91&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFF0&ring=00FFF0&fire=FF6D00&currStreakLabel=00FFF0&border_radius=10" />
 
 </div>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-ali&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFF0&text_color=FFFFFF&border_radius=10&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadali-ip91&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFF0&text_color=FFFFFF&border_radius=10&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammad-ali&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FFF0&line=00FFF0&point=FFFFFF&area=true&custom_title=Contribution%20Activity%20Graph" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadali-ip91&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FFF0&line=00FFF0&point=FFFFFF&area=true&custom_title=Contribution%20Activity%20Graph" width="95%"/>
 
 </div>
 
@@ -334,13 +334,13 @@ Key Skills Developed:
 
 <div align="center">
 
-<a href="https://github.com/muhammad-ali">
+<a href="https://github.com/muhammadali-ip91">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="mailto:your-email@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/muhammad-ali">
+<a href="https://www.linkedin.com/in/muhammadali-ip91">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
